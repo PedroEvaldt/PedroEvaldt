@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Pedro 👋
 
-<!--
-**PedroEvaldt/PedroEvaldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UFRGS with a strong interest in software development, data science and machine learning.
 
-Here are some ideas to get you started:
+I enjoy building projects to deepen my understanding of programming, algorithms and systems. My current focus is on Python, data analysis and backend development, while also exploring C/C++, SQL and modern development tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm currently working on
+- Improving my Python skills for data analysis and machine learning
+- Building personal programming projects
+- Studying algorithms, data structures and system design
+
+### Technologies & Tools
+- Python
+- C / C++
+- SQL
+- Git & GitHub
+- Linux
+
+### Interests
+- Machine Learning
+- Data Analysis
+- Backend Development
+- Algorithms and Problem Solving
+
+I’m always looking to learn, improve my skills and collaborate on interesting projects.
+
+📫 Feel free to explore my repositories or connect with me.
