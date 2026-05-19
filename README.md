@@ -8,15 +8,25 @@ I enjoy building projects to deepen my understanding of programming, algorithms 
 - Improving my Python skills for data analysis and machine learning
 - Building personal programming projects
 - Studying algorithms, data structures and system design
+- Learning Go servers and clients
+- Learning CI/CD pipelies
+- Learning Devops
 
 ### Technologies & Tools
+- Go
 - Python
 - C / C++
 - SQL
 - Git & GitHub
+- Docker
+- Kubernetes
+- Aws
 - Linux
+- CI/CD pipelines
+- Bash
 
 ### Interests
+- Devops
 - Machine Learning
 - Data Analysis
 - Backend Development
