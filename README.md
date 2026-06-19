@@ -1,14 +1,13 @@
 # Hi, I'm Pedro 👋
 
-Computer Science student at UFRGS with a strong interest in software development, data science and machine learning.
+Computer Science student at UFRGS with a strong interest in software development, backend development and machine learning.
 
-I enjoy building projects to deepen my understanding of programming, algorithms and systems. My current focus is on Python, data analysis and backend development, while also exploring C/C++, SQL and modern development tools.
+I enjoy building projects to deepen my understanding of programming, algorithms and systems. My current focus is on Go and learning operating system fundamental, while also exploring, SQL, docker, kubernetes and modern development tools.
 
 ### What I'm currently working on
-- Improving my Python skills for data analysis and machine learning
+- Improving my Go skills
 - Building personal programming projects
 - Studying algorithms, data structures and system design
-- Learning Go servers and clients
 - Learning CI/CD pipelies
 - Learning Devops
 
